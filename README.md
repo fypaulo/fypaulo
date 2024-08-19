@@ -21,7 +21,6 @@ I'm a Computer Science student at UFRJ learning how to learn.
 
 ### Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/paulo-yamagishi-a9a36b239/)
-- [Twitter](https://twitter.com/janedoe)
 - 📧 Email: ypaulo@gmail.com
 
 <!--
