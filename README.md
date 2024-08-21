@@ -1,6 +1,6 @@
 # Hi there, I'm Paulo Yamagishi 👋
 
-I'm a Computer Science student at UFRJ learning how to learn.
+I'm a Computer Science student at UFRJ.
 
 - 🌱 I’m learning full-stack web development (React, Node.js, MongoDB).
 - 📫 How to reach me: ypaulo@gmail.com
