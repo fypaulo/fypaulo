@@ -17,8 +17,6 @@ I'm a Computer Science student at UFRJ.
 - Nothing yet!
 
 ![roadmap.sh](https://roadmap.sh/card/wide/66c2847a837d383f4aebffd6?variant=dark)\
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fypaulo&show_icons=true&theme=radical)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fypaulo&layout=compact&theme=radical)
 
 ### Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/paulo-yamagishi-a9a36b239/)
