@@ -16,7 +16,7 @@ I'm a Computer Science student at UFRJ.
 ### Featured Projects
 - Nothing yet!
 
-![roadmap.sh](https://roadmap.sh/card/wide/66c2847a837d383f4aebffd6?variant=dark)\
+![roadmap.sh](https://roadmap.sh/card/wide/66c2847a837d383f4aebffd6?variant=dark)
 
 ### Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/paulo-yamagishi-a9a36b239/)
